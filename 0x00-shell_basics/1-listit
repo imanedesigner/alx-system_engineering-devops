@@ -1,1 +1,2 @@
-This repo is about shell scripts
+#!/bin/bash
+ls
